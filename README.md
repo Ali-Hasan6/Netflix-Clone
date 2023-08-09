@@ -3,6 +3,7 @@
 Description:
 Step into the realm of immersive entertainment with our meticulously crafted Netflix-Inspired Streaming Platform Clone. Fusing the power of React, the elegance of Tailwind CSS, and the versatility of Firebase, we bring you a sophisticated streaming experience that mirrors the charm and functionality of the renowned platform.
 
+Check it out at the folllowing link: https://netflix-prime-clone.netlify.app/
 Key Features:
 
 1. Sleek User Interface: Our meticulously designed user interface offers an intuitive and engaging journey, capturing the essence of effortless content discovery.
